@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: Topsis-Kunal-102303827
+Version: 1.0
+Author: Kunal Dahiya
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
